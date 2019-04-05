@@ -1,0 +1,30 @@
+
+*************************
+/usr/local/bin/node /Users/rameshkuruba/Desktop/GTBootCamp2019/liri-node-app/liri.js concert-this blink-182
+Name of the venue:Back To The Beach Festival
+Venue location: Huntington Beach, CA, United States
+
+*************************
+/usr/local/bin/node /Users/rameshkuruba/Desktop/GTBootCamp2019/liri-node-app/liri.js spotify-this-song
+Artist(s): blink-182
+The song's name: What's My Age Again?
+A preview link of the song from Spotify: https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt
+The album that the song is from: Enema Of The State
+
+*************************
+/usr/local/bin/node /Users/rameshkuruba/Desktop/GTBootCamp2019/liri-node-app/liri.js movie-this gladiator
+Title of the movie: Gladiator
+Year the movie came out: 2000
+IMDB Rating of the movie: 8.5/10
+Rotten Tomatoes Rating of the movie: 76%
+Country where the movie was produced: USA, UK
+Language of the movie: English
+Plot of the movie: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors in the movie: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+/usr/local/bin/node /Users/rameshkuruba/Desktop/GTBootCamp2019/liri-node-app/liri.js do-what-it-says
+
+*************************
+Artist(s): Backstreet Boys
+The song's name: I Want It That Way
+A preview link of the song from Spotify: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+The album that the song is from: The Hits--Chapter One
